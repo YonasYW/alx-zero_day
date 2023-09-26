@@ -1,1 +1,1 @@
-My first readme
+Non empty README file for alx-zero_day repository
